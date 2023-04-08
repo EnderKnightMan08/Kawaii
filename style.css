@@ -12,7 +12,8 @@ body {
   place-items: center;
   background-color: black;
   margin: 0rem;
-  overflow: hidden;  
+  margin-top: 50px;
+  overflow-y: scroll;  
   font-family: "Montserrat", sans-serif;
 }
 
